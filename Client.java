@@ -18,8 +18,8 @@ public class Client
         System.out.println("Service requested");
         System.out.println("Server message: " + in.readUTF());
 
-        c_socket.close();
         in.close();
         out.close();
+        c_socket.close();
     }
 }
