@@ -23,9 +23,9 @@ public class Server
         String date = obj.get(Calendar.DATE) + "/" + (obj.get(Calendar.MONTH) + 1) + "/" + obj.get(Calendar.YEAR);
         out.writeUTF("Hi Akshith \nToday's date is- " + date);
 
-        s.close();
-        s_socket.close();
         in.close();
         out.close();
+        s_socket.close();
+        s.close();
     }
 }
