@@ -1,1 +1,1 @@
-These programs helps to chat between server and client
+These programs helps to chat between server device and client device
