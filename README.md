@@ -1,3 +1,2 @@
-Here is a Simple java program to demonstrate Client Server connection,using ServerSocket and Socket clasess of java.
-Here client sends message to server and request for the service.
-Then server,receiving the message,reply back to client 
+This repository contain java programs for demonstrating data sharing between Clients and Server by setting reliable TCP connection.
+Includes different Client Server Programs for different purposes with uni-client or multi-client connection.
