@@ -2,6 +2,7 @@ import java.net.*;
 import java.io.*;
 import java.util.*;
 
+//Group Chat Room Program
 public class Client
 {
   static boolean closeflag=false;
