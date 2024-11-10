@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.net.*;
 
+//Single User Chatting 
 public class Client
 {
     public static void main(String[] arg) throws Exception
