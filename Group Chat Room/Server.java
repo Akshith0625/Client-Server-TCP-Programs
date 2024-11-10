@@ -2,6 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
 
+//Group Chat Room Program
 public class Server 
 {
   static ArrayList <DataOutputStream> writer_list = new ArrayList < > ();
