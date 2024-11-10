@@ -1,6 +1,7 @@
 import java.io.*;
 import java.net.*;
 
+//Single Message sending Program 
 public class Client 
 {
     public static void main(String[] args) throws Exception 
